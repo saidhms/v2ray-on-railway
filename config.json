@@ -3,7 +3,7 @@
     "loglevel": "warning"
   },
   "inbounds": [{
-    "port": 443,
+    "port": 8880,
     "protocol": "vless",
     "settings": {
       "clients": [{
